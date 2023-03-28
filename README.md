@@ -1,4 +1,4 @@
-#### Inbank Software Engineer Intern - assignment
+### Inbank Software Engineer Intern - assignment
 
 Author: Jan Ulrich Sütt
 
@@ -11,7 +11,7 @@ The application is accessible on port 5000:
 http://127.0.0.1:5000/
 
 
-##### How I approached the problem
+#### How I approached the problem
 
 The desired loan conditions are collected from the form on index.html.
 The server validates the input and checks the personal number for calculating the decision.
