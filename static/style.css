@@ -1,0 +1,11 @@
+#form {
+  display: inline-block; text-align: end;
+}
+
+#result-text {
+  display: inline-block;
+  border-radius: 1rem;
+  padding: 1rem;
+  background: lightgray;
+}
+
